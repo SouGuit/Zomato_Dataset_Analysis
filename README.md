@@ -10,9 +10,7 @@ While Exploring Data with SQL, I was working on the following things...
 4. Merged 2 differnt tables and added the new column of Country_Name with the help of primary key as [CountryCode] column
 5. Identitfied and corrected the mis-spelled city names
 6. Counted the no.of restaurants by rolling count/moving count using windows functions
-7. Checked min,max,avg data for [votes],[rating],[c[Zomato_Data_Analysis.txt](https://github.com/SouGuit/Zomato_Dataset_Analysis/files/10443401/Zomato_Data_Analysis.txt)
-[Zomato_Data_Exploration.txt](https://github.com/SouGuit/Zomato_Dataset_Analysis/files/10443402/Zomato_Data_Exploration.txt)
-urrency] columns
+7. Checked min,max,avg data for votes, rating & currency column.
 8. Created new category column for rating
 
 After Data Exploration with SQL, I started working on Analysing the Data with SQL where I found insights such as...

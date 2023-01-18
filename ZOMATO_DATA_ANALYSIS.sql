@@ -202,5 +202,3 @@ WHERE [Rating] >= 4.5
 AND [Has_Table_booking] = 'YES'
 GROUP BY [Price_range] 
 
---12. Votes vs table booking - PBI
---13. Votes vs online delivery - PBI
